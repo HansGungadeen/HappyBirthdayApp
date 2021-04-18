@@ -42,7 +42,7 @@
         android:fontFamily="casual"
         android:text="@string/the_who"
         android:textColor="@color/black"
-        android:textSize="14sp"
+        android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
